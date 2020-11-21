@@ -1,0 +1,29 @@
+{
+  "name": "eat_da_burger",
+  "version": "1.0.0",
+  "description": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim-tor/eat_da_burger.git"
+  },
+  "keywords": [
+    "burger",
+    "express",
+    "handlebars"
+  ],
+  "author": "Kimberley A. Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kim-tor/eat_da_burger/issues"
+  },
+  "homepage": "https://github.com/kim-tor/eat_da_burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
