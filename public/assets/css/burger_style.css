@@ -45,7 +45,7 @@ body {
 .devoured-burgers {
     font-size: 20px;
     margin: 8px;
-    border: 2px solid #FE65B7;
+    border: 2px solid #c165fe;
     padding: 3px;
 }
 
@@ -75,7 +75,7 @@ body {
     height: 50px;
     align-content: center;
     color: #000000;
-    background-color: #FE65B7;   
+    background-color: #fe65fe;   
 }
 
 #submit-burger {
