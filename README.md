@@ -18,7 +18,9 @@ To begin I ran an npm install and also installed express, express-handlebars and
 
 ## Usage
 Once on the page you will see a list of burgers. You can then select to devour the ones that are listed or to add a new burger to the list .... and then devour that. 
-![]
+
+## My Results
+It seems like every time I fixed one error another one popped up. Since I wasn't able to fix all the issues locally I was unable to deploy it to Heroku. I tried following the Cats class activity to help me complete the assignment but I kept finding small errors as I was reviewing. I feel like I am on the right path but I ran out of time to sucessfully create the app.
 
 ## Resources
 * ASK BCS
